@@ -79,6 +79,25 @@ Trained on the **TESS dataset**. Sits at the crossroads of NLP, signal processin
 
 ---
 
+### 🥗 AI Food Health Analyzer
+> *React · Vite · Express · MongoDB · Tesseract.js · Groq API · Vercel · Render*
+
+An AI-powered nutrition analysis platform that reads packaged food labels via OCR, calculates a deterministic health score, and delivers AI-generated insights with healthier alternatives.
+
+| Feature | Details |
+|---|---|
+| 📸 OCR Engine | Tesseract.js extracts nutrition facts & ingredients from images |
+| 🧠 AI Analysis | Groq LLM generates pros/cons, explanations, and recommendations |
+| 📊 Health Scoring | Deterministic engine based on sodium, sugar, fat, protein, fiber |
+| 🌐 Deployment | Full MERN stack deployed on Vercel + Render |
+
+**Architecture:** Image Upload → Express Backend → Tesseract OCR → Structured Parsing → Health Score Engine → LLM Analysis → Results Dashboard
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://foodanalyzer-five.vercel.app/)
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rohan18999/food_analyzer)
+
+---
+
 ### 📚 Bookshelf — MERN Book Manager
 > *MongoDB · Express · React · Node.js · JWT · Vercel · Render*
 
@@ -106,16 +125,6 @@ A production-ready full-stack application for personal book management — built
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan18999&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
 </div>
 
----
-
-## 🎯 2026 Roadmap
-
-```
-[■■■■■░░░░░]  DSA — Striver's A2Z Sheet (targeting 600+ problems)
-[■■■░░░░░░░]  System Design fundamentals
-[■■■■░░░░░░]  End-to-end RAG system, deployed
-[░░░░░░░░░░]  SDE Internship  ← actively targeting
-```
 
 ---
 
@@ -125,6 +134,7 @@ A production-ready full-stack application for personal book management — built
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/rohansidharth20/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/rohansidbfrg?tab=activity)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/rohansidharth20)
 
 </div>
 
